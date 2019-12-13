@@ -1,0 +1,8 @@
+.vscode
+.vscode/*
+my-app/.settings
+my-app/.settings/*
+my-app/.vscode
+my-app/.vscode/*
+my-app/target/
+my-app/target/*
